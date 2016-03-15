@@ -19,10 +19,25 @@
     "placeholder",
     "typewriter"
   ],
-  "author": "Darnell Holder",
+  "author": "Darnell Holder <darnelho1@gmail.com>",
+  "contributors": [
+    { "name": "Corey Berning",
+      "email": "berning.corey@gmail.com"},
+    { "name": "Jason Studstill",
+      "email": "jason@jasonstudstill.com"}
+  ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/darnelho1/typeit/issues"
   },
-  "homepage": "https://github.com/darnelho1/typeit#readme"
+  "homepage": "https://github.com/darnelho1/typeit#readme",
+  "devDependencies": {
+    "browserify": "^13.0.0",
+    "chai": "^3.5.0",
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.7",
+    "jquery": "^2.2.1",
+    "mocha": "^2.4.5",
+    "vinyl-source-stream": "^1.1.0"
+  }
 }
