@@ -1,0 +1,28 @@
+{
+  "name": "typeit-ph",
+  "version": "1.0.0",
+  "description": "A lightweight jQuery plugin that animates placeholder text for you",
+  "main": "typeit-ph.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darnelho1/typeit.git"
+  },
+  "keywords": [
+    "typing",
+    "live",
+    "typing",
+    "animated",
+    "jquery",
+    "placeholder",
+    "typewriter"
+  ],
+  "author": "Darnell Holder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darnelho1/typeit/issues"
+  },
+  "homepage": "https://github.com/darnelho1/typeit#readme"
+}
