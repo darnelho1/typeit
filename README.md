@@ -24,7 +24,7 @@ In your JavaScript file which uses jQuery, require in the module.
 >Optional. Array of strings to be typed in the placeholder of an html element. Random words will be selected if no wordsArray argument is supplied.
 
 
-##Example:
+## Example:
 
 ```html
 <input id="searchBox"></input>
